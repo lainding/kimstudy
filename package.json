@@ -1,0 +1,24 @@
+{
+  "name": "kimstudy",
+  "version": "1.0.0",
+  "description": "help kim study letters and pinyin.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lainding/kimstudy.git"
+  },
+  "keywords": [
+    "study",
+    "pinyin",
+    "letters"
+  ],
+  "author": "wding.cn@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lainding/kimstudy/issues"
+  },
+  "homepage": "https://github.com/lainding/kimstudy#readme"
+}
