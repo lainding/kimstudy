@@ -68,3 +68,10 @@ var arrangeZhengTi = function() {
         'ye.png', 'yue.png', 'yuan.png', 'yin.png', 'yun.png', 'ying.png'];
     insertImages(shuffle(items));
 }
+
+ver arrangeLetter = function() {
+    clearContainer();
+    var items = ['e_a.png', 'e_b.png', 'e_c.png', 'e_d.png', 'e_e.png', 'e_f.png', 'e_g.png', 'e_h.png', 'e_i.png', 'e_j.png', 'e_k.png', 'e_l.png',
+        'e_m.png', 'e_n.png', 'e_o.png', 'e_p.png', 'e_q.png', 'e_r.png', 'e_s.png', 'e_t.png', 'e_u.png', 'e_v.png', 'e_w.png', 'e_x.png', 'e_y.png', 'e_z.png'];
+    insertImages(shuffle(items));
+}
