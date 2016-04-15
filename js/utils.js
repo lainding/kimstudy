@@ -25,7 +25,7 @@ var insertImages = function(array) {
     for (var i = 0; i < array.length; i++) {
         var element = document.createElement('img');
         element.className = "letter";
-        element.src = "../images/" + array[i];
+        element.src = "./images/" + array[i];
         container.appendChild(element);
     }
 }
