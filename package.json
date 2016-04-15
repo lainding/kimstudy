@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/lainding/kimstudy/issues"
   },
-  "homepage": "https://github.com/lainding/kimstudy#readme"
+  "homepage": "https://github.com/lainding/kimstudy#readme",
+  "dependencies": {
+    "connect": "^3.4.1",
+    "serve-static": "^1.10.2"
+  }
 }
